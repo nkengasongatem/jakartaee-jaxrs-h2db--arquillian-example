@@ -1,0 +1,1 @@
+This is a simple RESTful API to demonstrate how to build RESTful APIs with Jakarta EE (formely Java EE) with JAX-RS, H2 embedded database and arquillian for Integration testing.
